@@ -1,2 +1,3 @@
 # Spam_Prediction
-Machine Learning model
+Machine Learning model - Created using Logistic Regression 
+
